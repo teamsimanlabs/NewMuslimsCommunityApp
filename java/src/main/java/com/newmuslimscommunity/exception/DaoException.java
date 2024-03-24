@@ -11,3 +11,4 @@ public class DaoException extends RuntimeException {
         super(message, cause);
     }
 }
+
