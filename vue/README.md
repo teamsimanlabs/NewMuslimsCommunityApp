@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # NewMuslimsCommunity Project
+=======
+# Islam Reverts Application - Vue Project Starter
+>>>>>>> 0a4c9744f8a2643a9d084970ea6dba82a04733b7
 ​
 This is the Vue starter project for the final capstone. This document walks you through how to set up and run the project. It also explains the project's features, such as Vue Router, Vuex, and authentication.
 ​
